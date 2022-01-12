@@ -3,7 +3,259 @@ title: Toke Meier Carlsen
 ---
 
 
-Test
+Peer-reviewed papers
+--------------------
 
-1. En
-2. To
+41.  **Condition (K) for Boolean dynamical systems**.  
+    With Eun Ji Kang.  
+    Accepted for publication in J. Aust. Math. Soc., 25 pages.  
+    [doi:10.1017/S1446788721000082](https://doi.org/10.1017/S1446788721000082)   [arXiv:1911.08238](https://arxiv.org/abs/1911.08238)
+
+40.  **Orbit equivalence of higher-rank graphs**.  
+    With James Rout.  
+    J. Operator Theory, 86 (2021), 395–424.  
+    [doi:10.7900/jot.2020may06.2280](http://www.mathjournals.org/jot/2021-086-002/2021-086-002-007.html)   [arXiv:1903.07179](https://arxiv.org/abs/1903.07179)
+
+39.  **Reconstruction of groupoids and C\*-rigidity of dynamical systems**.  
+    With Efren Ruiz, Aidan Sims and Mark Tomforde.  
+    Adv. Math., 390 (2021), 107923.  
+    [doi:10.1016/j.aim.2021.107923](https://doi.org/10.1016/j.aim.2021.107923)   [arXiv:1711.01052](https://arxiv.org/abs/1711.01052)
+
+38.  **Cuntz-Krieger algebras and one-sided conjugacy of shifts of finite type and their groupoids**.  
+    With Kevin Aguyar Brix.  
+    J. Aust. Math. Soc., 109 (2020), 289-298.  
+    [doi:10.1017/S1446788719000168](https://doi.org/10.1017/S1446788719000168)   [arXiv:1712.00179](https://arxiv.org/abs/1712.00179)
+
+37.  **C\*-algebras, groupoids and covers of shift spaces**.  
+    With Kevin Aguyar Brix.  
+    Trans. Amer. Math. Soc. Ser. B 7 (2020), 134-185.  
+    [doi:10.1090/btran/53](https://doi.org/10.1090/btran/53 "doi:10.1090/btran/53")   [arXiv:1910.01938](https://arxiv.org/abs/1910.01938)
+
+36.  **Gauge-invariant ideals of C\*-algebras of Boolean dynamical Systems**.  
+    With Eun Ji Kang.  
+    J. Math. Anal. Appl. 488 (2020), 124037, 27 pages.  
+    [doi:10.1016/j.jmaa.2020.124037](https://doi.org/10.1016/j.jmaa.2020.124037)   [arXiv:1911.12172](https://arxiv.org/abs/1911.12172)
+
+35.  **Flow Equivalence of G-SFTs**.  
+    With Mike Boyle and Søren Eilers.  
+    Trans. Amer. Math. Soc. 373 (2020), 2591–2657.  
+    [doi:10.1090/tran/7981](https://doi.org/10.1090/tran/7981)   [arXiv:1512.05238](https://arxiv.org/abs/1512.05238)
+
+34.  **Topological freeness for C\*-correspondences**.  
+    With Eduard Ortega and Bartosz Kwaśniewski  
+    J. Math. Anal. Appl. 473 (2019), 749–785.  
+    [doi:10.1016/j.jmaa.2018.12.069](https://doi.org/10.1016/j.jmaa.2018.12.069)   [arXiv:1801.03142](https://arxiv.org/abs/1801.03142)
+
+33.  **Flow equivalence and orbit equivalence for shifts of finite type and isomorphism of their groupoids**.  
+    With Søren Eilers, Eduard Ortega and Gunnar Restorff.  
+    J. Math. Anal. Appl. 469 (2019), 1088–1110.  
+    [doi:10.1016/j.jmaa.2018.09.056](https://doi.org/10.1016/j.jmaa.2018.09.056)   [arXiv:1610.09945](https://arxiv.org/abs/1610.09945)
+
+32.  **Orbit equivalence of graphs and isomorphism of graph groupoids** .  
+    With Marius Lie Winger.  
+    Math. Scand. 123 (2018), 239–248.  
+    [doi:10.7146/math.scand.a-105087](https://doi.org/10.7146/math.scand.a-105087)   [arXiv:1610.09942](https://arxiv.org/abs/1610.09942)
+
+31.  **Flow equivalence of sofic shifts**.  
+    With Mike Boyle and Søren Eilers.  
+    Isr. J. Math. 225 (2018), 111–146.  
+    [doi:10.1007/s11856-018-1644-x](https://doi.org/10.1007/s11856-018-1644-x)   [arXiv:1511.03481](https://arxiv.org/abs/1511.03481)
+
+30.  **Diagonal-preserving graded isomorphisms of Steinberg algebras** .  
+    With James Rout.  
+    Commun. Contemp. Math. 20 (2018), 25 pages.  
+    [doi:10.1142/S021919971750064X](https://doi.org/10.1142/S021919971750064X)   [arXiv:1611.09749](https://arxiv.org/abs/1611.09749)
+
+29.  **\*-isomorphism of Leavitt path algebras over Z**.  
+    Adv. Math. 324 (2018), 326–335.  
+    [doi:10.1016/j.aim.2017.11.018](https://doi.org/10.1016/j.aim.2017.11.018)   [arXiv:1601.00777](https://arxiv.org/abs/1601.00777)
+
+28.  **Diagonal-preserving gauge-invariant isomorphisms of graph C\*-algebras**.  
+    With James Rout.  
+    J. Funct. Anal. 273 (2017), 2981–2993.  
+    [doi:10.1016/j.jfa.2017.06.018](https://doi.org/10.1016/j.jfa.2017.06.018)   [arXiv:1610.00692](https://arxiv.org/abs/1610.00692)
+
+27.  **C\*-algebras associated to Boolean dynamical systems**.  
+    With Eduard Ortega and Enrique Pardo.  
+    J. Math. Anal. Appl. 450 (2017), 727–768.  
+    [doi:10.1016/j.jmaa.2017.01.038](https://doi.org/10.1016/j.jmaa.2017.01.038)   [arXiv:1510.06718](https://arxiv.org/abs/1510.06718)
+
+26.  **Strong classification of purely infinite Cuntz-Krieger algebras**.  
+    With Gunnar Restorff and Efren Ruiz.  
+    Trans. Amer. Math. Soc. B 4 (2017), 1–30.  
+    [doi:10.1090/btran/14](https://doi.org/10.1090/btran/14)   [arXiv:1605.06153](https://arxiv.org/abs/1605.06153)
+
+25.  **Equivalence and stable isomorphism of groupoids, and diagonal-preserving stable isomorphisms of graph C\*-algebras and Leavitt path algebras**.  
+    With Efren Ruiz and Aidan Sims.  
+    Proc. Amer. Math. Soc. 145 (2017), 1581–1592.  
+    [doi:10.1090/proc/13321](https://doi.org/10.1090/proc/13321)   [arXiv:1602.02602](https://arxiv.org/abs/1602.02602)
+
+24.  **Flow equivalence and isotopy for subshifts**.  
+    With Mike Boyle and Søren Eilers.  
+    Dyn. Syst. 32 (2017), 305–325.  
+    [doi:10.1080/14689367.2016.1207753](https://doi.org/10.1080/14689367.2016.1207753)   [arXiv:1511.03478](https://arxiv.org/abs/1511.03478)
+
+23.  **Graph algebras and orbit equivalence**.  
+    With Nathan Brownlowe and Michael F. Whittaker.  
+    Ergodic Theory Dynam. Systems 37 (2017), 389–417.  
+    [doi:10.1017/etds.2015.52](https://doi.org/10.1017/etds.2015.52)   [arXiv:1410.2308](https://arxiv.org/abs/1410.2308)
+
+22.  **C\*-algebras of labelled graphs III - K-theory computations**.  
+    With Teresa Bates and David Pask  
+    Ergodic Theory Dynam. Systems 37 (2017), 337–368.  
+    [doi:10.1017/etds.2015.62](https://doi.org/10.1017/etds.2015.62)   [arXiv:1203.3072](https://arxiv.org/abs/1203.3072)
+
+21.  **On Hong and Szymanski’s description of the primitive-ideal space of a graph algebra**.  
+    With Aidan Sims.  
+    Operator Algebras and Applications, Volume 12 of the series “Abel Symposium” (2016), 109–126.  
+    [doi:10.1007/978-3-319-39286-8\_4](https://doi.org/10.1007/978-3-319-39286-8_4)   [arXiv:1512.02850](https://arxiv.org/abs/1512.02850)
+
+20.  **Partial actions and KMS states on relative graph C\*-algebras**.  
+    With Nadia Larsen.  
+    J. Funct. Anal. 271 (2016), 2090–2132.  
+    [doi:10.1016/j.jfa.2016.07.001](https://doi.org/10.1016/j.jfa.2016.07.001)   [arXiv:1311.0912](https://arxiv.org/abs/1311.0912)
+
+19.  **The primitive ideals of the Cuntz-Krieger algebra of a row-finite higher-rank graph with no sources**.  
+    With Sooran Kang, Jacob Shotwell and Aidan Sims.  
+    J. Funct. Anal. 266 (2014), 2570–2589.  
+    [doi:10.1016/j.jfa.2013.08.029](https://doi.org/10.1016/j.jfa.2013.08.029)   [arXiv:1305.6388](https://arxiv.org/abs/1305.6388)
+
+18.  **An introduction to the C\*-algebra of a one-sided shift space**.  
+    Operator Algebra and Dynamics, Springer Proceedings in Mathematics & Statistics, Volume 58 (2013), 63–88.  
+    [doi:10.1007/978-3-642-39459-1\_4](https://doi.org/10.1007/978-3-642-39459-1_4)
+
+17.  **Simple Cuntz-Pimsner rings**.  
+    With Eduard Ortega and Enrique Pardo.  
+    J. Algebra 371 (2012), 367-–390.  
+    [doi:10.1016/j.jalgebra.2012.08.005](https://doi.org/10.1016/j.jalgebra.2012.08.005)   [arXiv:1110.6923](https://arxiv.org/abs/1110.6923)
+
+16.  **Index maps in the K-theory of graph algebras**.  
+    With Søren Eilers and Mark Tomforde.  
+    J. K-Theory 9 (2012), 385–406.  
+    [doi:10.1017/is011004017jkt156](https://doi.org/10.1017/is011004017jkt156)   [arXiv:1011.4154](https://arxiv.org/abs/1011.4154)
+
+15.  **The structure of the C\*-algebra of a locally injective surjection**.  
+    With Klaus Thomsen.  
+    Ergodic Theory Dynam. Systems 32 (2012), no. 2, 1226–1248.  
+    [doi:10.1017/S0143385711000216](https://doi.org/10.1017/S0143385711000216)   [arXiv:1011.0583](https://arxiv.org/abs/1011.0583)
+
+14.  **Algebraic Cuntz-Pimsner rings**.  
+    With Eduard Ortega.  
+    Proc. London Math. Soc. (3) 103 (2011), no. 4, 601–653.  
+    [doi:10.1112/plms/pdq040](https://doi.org/10.1112/plms/pdq040)   [arXiv:0810.3254](https://arxiv.org/abs/0810.3254)
+
+13.  **Co-universal algebras associated to product systems, and gauge-invariant uniqueness theorems**.  
+    With Nadia S. Larsen, Aidan Sims and Sean Vittadello.  
+    Proc. London Math. Soc. (3) 103 (2011), no. 4, 563–600.  
+    [doi:10.1112/plms/pdq028](https://doi.org/10.1112/plms/pdq028)   [arXiv:0906.4825](https://arxiv.org/abs/0906.4825)
+
+12.  **On the K-theory of the C\*-algebra associated to a one-sided shift space**.  
+    With Sergei Silvestrov.  
+    Proc. Est. Acad. Sci. 59 (2010), no. 4, 272–279.  
+    [doi:10.3176/proc.2010.4.04](https://doi.org/10.3176/proc.2010.4.04)
+
+11.  **On the Exel Crossed Product of Topological Covering Maps**.  
+    With Sergei Silvestrov.  
+    Acta Appl. Math. 108 (2009), no. 3, 573–583.  
+    [doi:10.1007/s10440-008-9372-6](https://doi.org/10.1007/s10440-008-9372-6)   [arXiv:0811.0056](https://arxiv.org/abs/0811.0056)
+
+10.  **Cuntz-Pimsner C\*-algebras associated with subshifts**.  
+    Internat. J. Math. 19 (2008), no. 1, 47–70.  
+    [doi:10.1142/S0129167X0800456X](https://doi.org/10.1142/S0129167X0800456X)   [arXiv:math/0505503](https://arxiv.org/abs/math/0505503)
+
+9.  **C\*-crossed Products and Shift Spaces**.  
+    With Sergei Silvestrov.  
+    Expo. Math. 25 (2007), no. 4, 275–307.  
+    [doi:10.1016/j.exmath.2007.02.004](https://doi.org/10.1016/j.exmath.2007.02.004)   [arXiv:math/0512488](https://arxiv.org/abs/math/0512488)
+
+8.  **Dimension groups associated to β-expansions**.  
+    With Teresa Bates and Søren Eilers.  
+    Math. Scand. 100 (2007), no. 2, 198–208.  
+    [doi:10.7146/math.scand.a-15022](https://doi.org/10.7146/math.scand.a-15022)
+
+7.  **A graph approach to computing nondeterminacy in substitutional dynamical systems**.  
+    With Søren Eilers.  
+    Theor. Inform. Appl. 41 (2007), no. 3, 285–306.  
+    [doi:10.1051/ita:2007020](https://doi.org/10.1051/ita:2007020)
+
+6.  **Ordered K-groups associated to substitutional dynamics**.  
+    With Søren Eilers.  
+    J. Funct. Anal. 238 (2006), no. 1, 99–117.  
+    [doi:10.1016/j.jfa.2005.12.028](https://doi.org/10.1016/j.jfa.2005.12.028)
+
+5.  **Matsumoto K-groups associated to certain shift spaces**.  
+    With Søren Eilers.  
+    Doc. Math 9 (2004), 639–671.  
+    [https://www.math.uni-bielefeld.de/documenta/vol-09/30.html](https://www.math.uni-bielefeld.de/documenta/vol-09/30.html)
+
+4.  **Augmenting dimension group invariants for substitution dynamics**.  
+    With Søren Eilers.  
+    Ergodic Theory Dynam. Systems 24 (2004), no. 4, 1015–1039.  
+    [doi:10.1017/s0143385704000057](https://doi.org/10.1017/s0143385704000057)
+
+3.  **Some Remarks on the C\*-algebras Associated with Subshifts**.  
+    With Kengo Matsumoto.  
+    Math. Scand. 95 (2004), no. 1, 145–160.  
+    [doi:10.7146/math.scand.a-14453](https://doi.org/10.7146/math.scand.a-14453)
+
+2.  **On C\*-algebras Associated with Sofic Shifts**.  
+    J. Operator Theory 49 (2003), no. 1, 203– 212.  
+    [http://www.mathjournals.org/jot/2003-049-001/2003-049-001-013.html](http://www.mathjournals.org/jot/2003-049-001/2003-049-001-013.html)   [arXiv:math/0009147](https://arxiv.org/abs/math/0009147)
+
+1.  **A Useful Strengthening of the Stone-Weierstrass Theorem**.  
+    With Søren Boel and Niels Richard Hansen.  
+    Amer. Math. Monthly 108 (2001), no.7, 642–643.  
+    [doi:10.2307/2695271](https://doi.org/10.2307/2695271)
+
+Preprints
+---------
+
+3.  **Conjugacy of local homeomorphisms via groupoids and C\*-algebras.**  
+    With Becky Armstrong, Kevin Aguyar Brix and Søren Eilers.  
+    [arXiv:2105.00479](https://arxiv.org/abs/2105.00479), 19 pages.
+
+2.  **Shift equivalence through the lens of Cuntz-Krieger algebras.**  
+    With Adam Dor-On and Søren Eilers.  
+    [arXiv:2011.10320](https://arxiv.org/abs/2011.10320), 20 pages.
+
+1.  **Symbolic Dynamics, Partial Dynamical Systems, Boolean Algebras and C\*-algebras Generated by Partial Isometries**.  
+    [arXiv:math/0604165](https://arxiv.org/abs/math/0604165), 55 pages.
+
+Books
+-----
+
+2.  **Operator Algebras and Applications – The Abel Symposium 2015**.  
+    Editors Toke M. Carlsen, Nadia S. Larsen, Sergey Neshveyev and Christian Skau.  
+    Volume 12 of the series "Abel Symposia" (2016), Springer International Publishing.  
+    [doi:10.1007/978-3-319-39286-8](https://doi.org/10.1007/978-3-319-39286-8)
+
+1.  **Operator Algebra and Dynamics – Nordforsk Network Closing Conference, Faroe Islands, May 2012**.  
+    Editors Toke M. Carlsen, Søren Eilers, Gunnar Restorff and Sergei D. Silvestrov.  
+    Springer Proceedings in Mathematics & Statistics, Volume 58 (2013), Springer International Publishing.  
+    [doi:10.1007/978-3-642-39459-1](https://doi.org/10.1007/978-3-642-39459-1)
+
+Notes
+-----
+
+4.  **C\*-rigidity of topological dynamical systems**.  
+    [pdf](https://dl.dropboxusercontent.com/s/8kbrpkvkmxfo7q9/Warsaw%20notes.pdf?dl=0)
+
+3.  **A short introduction to graph groupoids and their algebras**.  
+    [pdf](https://dl.dropboxusercontent.com/s/txocnt5te2u0w0o/Tehran%20notes.pdf?dl=0)
+
+2.  **C\*-rigidity of dynamical systems and étale groupoids**.  
+    [arXiv:1803.05326](https://arxiv.org/abs/1803.05326)
+
+1.  **C\*-algebras associated to shift spaces**.  
+    [arXiv:0808.0301](https://arxiv.org/abs/0808.0301)
+
+Theses
+------
+
+2.  **Operator algebraic applications in symbolic dynamics**.  
+    Ph.D. thesis, University of Copenhagen (2004).  
+    [pdf](https://dl.dropboxusercontent.com/s/c79cixrdveut8k9/phd.pdf?dl=0)
+
+1.  **C\*-algebras associated to general shift spaces**.  
+    Master's thesis, University of Copenhagen (2001).  
+    [pdf](https://dl.dropboxusercontent.com/s/p4z1m0upifr49vq/master.pdf?dl=0)
