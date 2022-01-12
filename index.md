@@ -2,7 +2,7 @@
 title: Toke Meier Carlsen
 ---
 
-Talk
+Talks
 ------------
 
 1.  **C\*-rigidity of topological dynamical systems**.  
