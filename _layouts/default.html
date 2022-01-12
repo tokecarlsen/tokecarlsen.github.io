@@ -1,7 +1,19 @@
-<header>
+<!doctype html>
+<html lang="en">
+  <header>
     <title>Toke Meier Carlsen</title>
     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
-</header>
-<main id="content" class="main-content" role="main">
-       {{ content }}
-</main>
+  </header>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+    <h1>{{ page.title }}</h1>
+    <section>
+      {{ content }}
+    </section>
+  </body>
+</html>
+
