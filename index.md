@@ -4,7 +4,7 @@ title: Toke Meier Carlsen
 
 0. first item
 0. second item
-0. third item
+0. bob item
 {: reversed="reversed"}
 
 Talks
@@ -13,19 +13,23 @@ Talks
 1.  {: reversed="reversed"}**C\*-rigidity of topological dynamical system**.  
     [Danish-Norwegian Operator Algebras Meeting at Trondheim](https://www.ntnu.edu/oa2021/programme), 27 November 2021.  
     [Abstract](https://www.ntnu.edu/documents/1303103819/1305362385/Toke+Meier+Carlsen.pdf/815f892e-3114-f0e1-8266-25cb9b43f12b?t=1636111340575)  [Slides](https://www.dropbox.com/s/wqmth52ggrq5stl/trans.pdf?dl=0)
+
 2.  **C\*-rigidity of topological dynamical systems**.  
     [Operator Algebra Web-Seminar at Federal University of Santa Catarina](http://mtm.ufsc.br/~alcides/seminario/), 9 November 2021.  
     [Abstract](http://mtm.ufsc.br/~alcides/seminario/)  [Slides](https://www.dropbox.com/s/u8kipbctnt951mx/trans.pdf?dl=0)
+
 3.  **C\*-rigidity of topological dynamical systems**.  
     [South Atlantic Noncommutative Geometry Seminar (GeNoCAS)](http://mtm.ufsc.br/~alcides/seminario/), 28 September 2021.  
     [Abstract](http://cms.dm.uba.ar/Members/gcorti/workgroup.GNC/GeNoCAS_seminar/document_view)   [Video](https://youtu.be/0a3d92VdDDM)   [Slides](https://www.dropbox.com/s/lytxdld5bjt44gn/trans.pdf?dl=0)
+
 4.  **Cuntz-Krieger algebras, topological Markov shifts and groupoids**.  
     [NYC noncommutative geometry seminar](https://researchseminars.org/seminar/NYC-NCG), 2 September 2020.  
     [Abstract](https://researchseminars.org/talk/NYC-NCG/22/)   [Video](https://sju.webex.com/recordingservice/sites/sju/recording/playback/a2dd936df43443f1abfd5e692a3968f1)   [Slides](https://dl.dropboxusercontent.com/s/r5q8tjyu540wa3v/trans.pdf?dl=0)
+
 5.  **Graph algebras, groupoids, and symbolic dynamics**.  
     [Western Sydney University Abend Seminar](https://researchseminars.org/seminar/CRMDS), 14 May 2020.  
     [Abstract](https://researchseminars.org/talk/CRMDS/1/)  [Slides](https://dl.dropboxusercontent.com/s/sce3j6dw71tasd5/trans.pdf?dl=0)
- {: reversed="reversed"}   
+{: reversed="reversed"}   
 
 <a name="papers" style="position: relative; top: -10rem;"></a>
 
