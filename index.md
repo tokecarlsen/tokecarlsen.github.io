@@ -5,7 +5,7 @@ title: Toke Meier Carlsen
 Talks
 ------------
 
-1.  **C\*-rigidity of topological dynamical systems**.  
+1.  {: reversed="reversed"}**C\*-rigidity of topological dynamical system**.  
     [Danish-Norwegian Operator Algebras Meeting at Trondheim](https://www.ntnu.edu/oa2021/programme), 27 November 2021.  
     [Abstract](https://www.ntnu.edu/documents/1303103819/1305362385/Toke+Meier+Carlsen.pdf/815f892e-3114-f0e1-8266-25cb9b43f12b?t=1636111340575)  [Slides](https://www.dropbox.com/s/wqmth52ggrq5stl/trans.pdf?dl=0)
 
@@ -24,7 +24,7 @@ Talks
 5.  **Graph algebras, groupoids, and symbolic dynamics**.  
     [Western Sydney University Abend Seminar](https://researchseminars.org/seminar/CRMDS), 14 May 2020.  
     [Abstract](https://researchseminars.org/talk/CRMDS/1/)  [Slides](https://dl.dropboxusercontent.com/s/sce3j6dw71tasd5/trans.pdf?dl=0)
-    {: reversed="reversed"}
+    
 
 <a name="papers" style="position: relative; top: -10rem;"></a>
 
