@@ -24,7 +24,8 @@ Talks
 5.  **Graph algebras, groupoids, and symbolic dynamics**.  
     [Western Sydney University Abend Seminar](https://researchseminars.org/seminar/CRMDS), 14 May 2020.  
     [Abstract](https://researchseminars.org/talk/CRMDS/1/)  [Slides](https://dl.dropboxusercontent.com/s/sce3j6dw71tasd5/trans.pdf?dl=0)
-
+    
+    {: reversed="reversed"}
 
 <a name="papers" style="position: relative; top: -10rem;"></a>
 
