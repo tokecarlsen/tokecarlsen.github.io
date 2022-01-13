@@ -26,6 +26,8 @@ Talks
     [Abstract](https://researchseminars.org/talk/CRMDS/1/)  [Slides](https://dl.dropboxusercontent.com/s/sce3j6dw71tasd5/trans.pdf?dl=0)
 
 
+<a name="papers"></a>
+
 Peer-reviewed papers
 --------------------
 
