@@ -10,7 +10,7 @@ I worked as a professional mathematician from 2001 to 2022. Below is a list of m
 Preprints
 ---------
 
-3.  {:start="44"}**Conjugacy of local homeomorphisms via groupoids and C\*-algebras.**  
+3.  **Conjugacy of local homeomorphisms via groupoids and C\*-algebras.**  
     With Becky Armstrong, Kevin Aguyar Brix and Søren Eilers.  
     [arXiv:2105.00479](https://arxiv.org/abs/2105.00479), 19 pages.
 
@@ -25,7 +25,7 @@ Preprints
 
 <a name="_papers" style="position: relative; top: -8rem;"></a>
 
-Peer-reviewed papers
+Peer-reviewed research papers
 --------------------
 
 41.  **Condition (K) for Boolean dynamical systems**.  
@@ -88,7 +88,7 @@ Peer-reviewed papers
     Commun. Contemp. Math. 20 (2018), 25 pages.  
     [doi:10.1142/S021919971750064X](https://doi.org/10.1142/S021919971750064X)   [arXiv:1611.09749](https://arxiv.org/abs/1611.09749)
 
-29.  **\*-isomorphism of Leavitt path algebras over Z**.  
+29.  **\*-isomorphism of Leavitt path algebras over &#8484;**.  
     Adv. Math. 324 (2018), 326–335.  
     [doi:10.1016/j.aim.2017.11.018](https://doi.org/10.1016/j.aim.2017.11.018)   [arXiv:1601.00777](https://arxiv.org/abs/1601.00777)
 
