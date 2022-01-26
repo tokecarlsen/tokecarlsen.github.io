@@ -7,8 +7,7 @@ I worked as a professional mathematician from 2001 to 2022. Below is a list of m
 
 <a name="_preprints" style="position: relative; top: -8rem;"></a>
 
-Preprints
----------
+### Preprints
 
 3.  **Conjugacy of local homeomorphisms via groupoids and C\*-algebras.**  
     With Becky Armstrong, Kevin Aguyar Brix and Søren Eilers.  
@@ -25,8 +24,7 @@ Preprints
 
 <a name="_papers" style="position: relative; top: -8rem;"></a>
 
-Peer-reviewed research papers
---------------------
+### Peer-reviewed research papers
 
 41.  **Condition (K) for Boolean dynamical systems**.  
     With Eun Ji Kang.  
@@ -232,8 +230,7 @@ Peer-reviewed research papers
 
 <a name="_books" style="position: relative; top: -8rem;"></a>
 
-Books
------
+### Books
 
 2.  **Operator Algebras and Applications – The Abel Symposium 2015**.  
     Editors Toke M. Carlsen, Nadia S. Larsen, Sergey Neshveyev and Christian Skau.  
@@ -248,8 +245,7 @@ Books
 
 <a name="_notes" style="position: relative; top: -8rem;"></a>
 
-Notes
------
+### Notes
 
 4.  **C\*-rigidity of topological dynamical systems**.  
     [pdf](https://dl.dropboxusercontent.com/s/8kbrpkvkmxfo7q9/Warsaw%20notes.pdf?dl=0)
@@ -266,8 +262,7 @@ Notes
 
 <a name="_theses" style="position: relative; top: -8rem;"></a>
 
-Theses
-------
+### Theses
 
 2.  **Operator algebraic applications in symbolic dynamics**.  
     Ph.D. thesis, University of Copenhagen (2004).  
@@ -280,8 +275,7 @@ Theses
 
 <a name="_talks" style="position: relative; top: -8rem;"></a>
 
-Talks
-------------
+### Talks
 
 1.  **C\*-rigidity of topological dynamical system**.  
     [Danish-Norwegian Operator Algebras Meeting at Trondheim](https://www.ntnu.edu/oa2021/programme), 27 November 2021.  
