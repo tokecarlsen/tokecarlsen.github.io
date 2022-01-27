@@ -2,7 +2,7 @@
 title: Toke Meier Carlsen
 ---
 
-I worked as a professional mathematician from 2001 to 2022. Below is a list of my research publications and some of my research talks.
+I worked as a professional mathematician from 2001 to 2022. I now work as a software developer, but still do a little bit of mathematical research in my spare time. Below is a list of my research publications and some of my research talks.
 
 
 <a name="_preprints" style="position: relative; top: -8rem;"></a>
