@@ -54,7 +54,7 @@ I worked as a professional mathematician from 2001 to 2022. I now work as a soft
 36.  **Gauge-invariant ideals of C\*-algebras of Boolean dynamical Systems**.  
     With Eun Ji Kang.  
     J. Math. Anal. Appl. 488 (2020), 124037, 27 pages.  
-    [doi:10.1016/j.jmaa.2020.124037](https://doi.org/10.1016/j.jmaa.2020.124037)   [arXiv:1911.12172](https://arxiv.org/abs/1911.12172)
+    [doi:10.1016/j.jmaa.2020.124037](https://doi.org/10.1016/j.jmaa.2020.124037)   [Corrigendum](https://doi.org/10.1016/j.jmaa.2020.124754)   [arXiv:1911.12172](https://arxiv.org/abs/1911.12172)
 
 35.  **Flow Equivalence of G-SFTs**.  
     With Mike Boyle and Søren Eilers.  
