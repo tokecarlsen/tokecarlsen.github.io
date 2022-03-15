@@ -28,7 +28,7 @@ I worked as a professional mathematician from 2001 to 2022. I now work as a soft
 
 41.  **Condition (K) for Boolean dynamical systems**.  
     With Eun Ji Kang.  
-    J. Aust. Math. Soc., 112 (2022), 145 &ndash 169.  
+    J. Aust. Math. Soc., 112 (2022), 145–169.  
     [doi:10.1017/S1446788721000082](https://doi.org/10.1017/S1446788721000082)   [arXiv:1911.08238](https://arxiv.org/abs/1911.08238)
 
 40.  **Orbit equivalence of higher-rank graphs**.  
@@ -43,12 +43,12 @@ I worked as a professional mathematician from 2001 to 2022. I now work as a soft
 
 38.  **Cuntz-Krieger algebras and one-sided conjugacy of shifts of finite type and their groupoids**.  
     With Kevin Aguyar Brix.  
-    J. Aust. Math. Soc., 109 (2020), 289-298.  
+    J. Aust. Math. Soc., 109 (2020), 289–298.  
     [doi:10.1017/S1446788719000168](https://doi.org/10.1017/S1446788719000168)   [arXiv:1712.00179](https://arxiv.org/abs/1712.00179)
 
 37.  **C\*-algebras, groupoids and covers of shift spaces**.  
     With Kevin Aguyar Brix.  
-    Trans. Amer. Math. Soc. Ser. B 7 (2020), 134-185.  
+    Trans. Amer. Math. Soc. Ser. B 7 (2020), 134–185.  
     [doi:10.1090/btran/53](https://doi.org/10.1090/btran/53 "doi:10.1090/btran/53")   [arXiv:1910.01938](https://arxiv.org/abs/1910.01938)
 
 36.  **Gauge-invariant ideals of C\*-algebras of Boolean dynamical Systems**.  
@@ -146,7 +146,7 @@ I worked as a professional mathematician from 2001 to 2022. I now work as a soft
 
 17.  **Simple Cuntz-Pimsner rings**.  
     With Eduard Ortega and Enrique Pardo.  
-    J. Algebra 371 (2012), 367-–390.  
+    J. Algebra 371 (2012), 367–390.  
     [doi:10.1016/j.jalgebra.2012.08.005](https://doi.org/10.1016/j.jalgebra.2012.08.005)   [arXiv:1110.6923](https://arxiv.org/abs/1110.6923)
 
 16.  **Index maps in the K-theory of graph algebras**.  
@@ -219,7 +219,7 @@ I worked as a professional mathematician from 2001 to 2022. I now work as a soft
     [doi:10.7146/math.scand.a-14453](https://doi.org/10.7146/math.scand.a-14453)
 
 2.  **On C\*-algebras Associated with Sofic Shifts**.  
-    J. Operator Theory 49 (2003), no. 1, 203– 212.  
+    J. Operator Theory 49 (2003), no. 1, 203–212.  
     [http://www.mathjournals.org/jot/2003-049-001/2003-049-001-013.html](http://www.mathjournals.org/jot/2003-049-001/2003-049-001-013.html)   [arXiv:math/0009147](https://arxiv.org/abs/math/0009147)
 
 1.  **A Useful Strengthening of the Stone-Weierstrass Theorem**.  
