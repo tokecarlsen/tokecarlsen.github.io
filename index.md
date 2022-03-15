@@ -28,7 +28,7 @@ I worked as a professional mathematician from 2001 to 2022. I now work as a soft
 
 41.  **Condition (K) for Boolean dynamical systems**.  
     With Eun Ji Kang.  
-    J. Aust. Math. Soc., 112 (2022), 145&ndash 169.  
+    J. Aust. Math. Soc., 112 (2022), 145 &ndash 169.  
     [doi:10.1017/S1446788721000082](https://doi.org/10.1017/S1446788721000082)   [arXiv:1911.08238](https://arxiv.org/abs/1911.08238)
 
 40.  **Orbit equivalence of higher-rank graphs**.  
