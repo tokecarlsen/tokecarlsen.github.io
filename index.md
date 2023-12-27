@@ -9,19 +9,19 @@ I worked as a professional mathematician from 2001 to 2022. I now work as a soft
 
 ### Preprints
 
-5.  **A Cuntz-Krieger Uniqueness theorem for C\*-algebras of relative generalized Boolean dynamical systems**  
+5.  **A Cuntz-Krieger Uniqueness theorem for C\*-algebras of relative generalized Boolean dynamical systems**.     
     With Eun Ji Kang.   
     [arXiv:2305.09232](https://arxiv.org/abs/2305.09232), 26 pages.
 
-4.  **Ideal structure of C\*-algebras of commuting local homeomorphisms**  
+4.  **Ideal structure of C\*-algebras of commuting local homeomorphisms**.     
     With Kevin Aguyar Brix and Aidan Sims.   
     [arXiv:2303.02313](https://arxiv.org/abs/2303.02313), 50 pages.
 
-3.  **Some results regarding the ideal structure of C\*-algebras of étale groupoids**  
+3.  **Some results regarding the ideal structure of C\*-algebras of étale groupoids**.     
     With Kevin Aguyar Brix and Aidan Sims.   
     [arXiv:2211.06126](https://arxiv.org/abs/2211.06126), 18 pages.
 
-2.  **Shift equivalence through the lens of Cuntz-Krieger algebras.**  
+2.  **Shift equivalence through the lens of Cuntz-Krieger algebras**.    
     With Adam Dor-On and Søren Eilers.
     Accepted for publication in Analysis & PDE.  
     [arXiv:2011.10320](https://arxiv.org/abs/2011.10320), 36 pages.
@@ -35,7 +35,7 @@ I worked as a professional mathematician from 2001 to 2022. I now work as a soft
 
 ### Peer-reviewed research papers
 
-42. **Conjugacy of local homeomorphisms via groupoids and C\*-algebras**  
+42. **Conjugacy of local homeomorphisms via groupoids and C\*-algebras**.  
     With Becky Armstrong, Kevin Aguyar Brix and Søren Eilers.
     Ergodic Theory Dynam. Systems 43 (2023), 2516–2537.  
     [doi:10.1017/etds.2022.50](https://doi.org/10.1017/etds.2022.50)   [arXiv:2105.00479](https://arxiv.org/abs/2105.00479)
