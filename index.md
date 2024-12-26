@@ -9,7 +9,7 @@ I worked as a professional mathematician from 2001 to 2022. I now work as a soft
 
 ### Preprints
 
-4.  **Norm upper-semicontinuity of functions supported on open abelian isotropy in étale groupoids (a corrigendum to "Reconstruction of groupoids and C\*-rigidity of dynamical systems," Adv. Math 390 (2021), 107923)**
+4.  **Norm upper-semicontinuity of functions supported on open abelian isotropy in étale groupoids (a corrigendum to "Reconstruction of groupoids and C\*-rigidity of dynamical systems," Adv. Math 390 (2021), 107923)**.   
     With Anna Duwenig, Efren Ruiz and Aidan Sims.
     [arXiv:2412.00018](https://arxiv.org/abs/2412.00018), 12 pages.
 
@@ -35,17 +35,17 @@ I worked as a professional mathematician from 2001 to 2022. I now work as a soft
 44.  **Some results regarding the ideal structure of C\*-algebras of étale groupoids**.     
     With Kevin Aguyar Brix and Aidan Sims.
     J. Lond. Math. Soc. 109 (2024), No. 3, e12870.
-    [doi:10.1112/jlms.12870](https://doi.org/10.1112/jlms.12870)   [arXiv:2211.06126](https://arxiv.org/abs/2211.06126).
+    [doi:10.1112/jlms.12870](https://doi.org/10.1112/jlms.12870)    [arXiv:2211.06126](https://arxiv.org/abs/2211.06126).
 
 43.  **Shift equivalence through the lens of Cuntz-Krieger algebras**.    
     With Adam Dor-On and Søren Eilers.
     Analysis & PDE 17 (2024), No. 1, 345–377.  
-    [doi:10.2140/apde.2024.17.345](https://doi.org/10.2140/apde.2024.17.345)   [arXiv:2011.10320](https://arxiv.org/abs/2011.10320).
+    [doi:10.2140/apde.2024.17.345](https://doi.org/10.2140/apde.2024.17.345)    [arXiv:2011.10320](https://arxiv.org/abs/2011.10320).
 
 42.  **Conjugacy of local homeomorphisms via groupoids and C\*-algebras**.  
     With Becky Armstrong, Kevin Aguyar Brix and Søren Eilers.
     Ergodic Theory Dynam. Systems 43 (2023), 2516–2537.  
-    [doi:10.1017/etds.2022.50](https://doi.org/10.1017/etds.2022.50)   [arXiv:2105.00479](https://arxiv.org/abs/2105.00479)
+    [doi:10.1017/etds.2022.50](https://doi.org/10.1017/etds.2022.50)    [arXiv:2105.00479](https://arxiv.org/abs/2105.00479)
 
 41.  **Condition (K) for Boolean dynamical systems**.  
     With Eun Ji Kang.  
